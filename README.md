@@ -1,0 +1,1 @@
+Repro project for Spring JavaConfig potential issue with [declaration-site variance](https://kotlinlang.org/docs/reference/generics.html#declaration-site-variance).
